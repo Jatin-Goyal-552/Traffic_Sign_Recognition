@@ -9,5 +9,13 @@
   <img src="result/vgg_result1.png" width="1000" height:"1200" title="Starting interface">
 </span>
 <span >
-  <img src="result/vgg_result2.png" width="200" height:"220" title="Starting interface">
+  <img src="result/vgg_result2.png" width="1000" height:"1200" title="Starting interface">
+</span>
+
+<h3>ResNet50 predictions :-</h3>
+<span>
+  <img src="result/resnet_result1.png" width="1000" height:"1200" title="Starting interface">
+</span>
+<span >
+  <img src="result/resnet_result2.png" width="1000" height:"1200" title="Starting interface">
 </span>
