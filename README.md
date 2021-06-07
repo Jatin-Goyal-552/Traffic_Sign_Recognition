@@ -4,7 +4,7 @@
 <h4>I used ResNet50 pre-trained model to train this model. I also tried VGG16 pre-trained model but it's accuracy was not so good.</h4>
 <h5>Dataset is available at :- https://www.kaggle.com/flo2607/traffic-signs-classification</h5>
 
- <h3>VGG16 predictions :-</h3>
+ <h2>VGG16 predictions :-</h2>
 <span>
   <img src="result/vgg_result1.png" width="1000" height:"1200" title="Starting interface">
 </span>
@@ -12,7 +12,7 @@
   <img src="result/vgg_result2.png" width="1000" height:"1200" title="Starting interface">
 </span>
 
-<h3>ResNet50 predictions :-</h3>
+<h2>ResNet50 predictions :-</h2>
 <span>
   <img src="result/resnet_result1.png" width="1000" height:"1200" title="Starting interface">
 </span>
